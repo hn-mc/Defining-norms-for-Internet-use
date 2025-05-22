@@ -62,13 +62,17 @@ g.	Talking to AI is not surfing, if you engage in meaningful conversation or exc
   
   g.	Or you can allow yourself to use the Internet and even surf without any restrictions, but conditionally - only after you have achieved some other goal for that day. For example, you can say: No Internet, until I complete 4 hours of studying. Once you’ve done your studying, you can use the Internet, or even surf as much as you want until you go to sleep that day, even after midnight. Discuss:
 
+  h.    Cold turkey - Quitting all recreational Internet use, and strictly defining what non-recreational uses of the Internet are allowed. Discuss:
+
+  i.    Soft cold turkey - Quitting all surging, (but not other recreational Internet use), and strictly defining what uses (recreational and non recreational) of the Internet are allowed. Discuss: 
+
 ## 4.	Picking methods that actually work:
 
  a.	At first glance, I’d classify methods like this:
  
    i.	Best: g, f, e
    
-   ii.	Solid: c, b
+   ii.	Solid: c, b, h, i
    
    iii.	Garbage: a, d
 
