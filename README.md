@@ -2,6 +2,9 @@
 
 This document is an attempt to create sensible, useful, sustainable and beneficial social / cultural norms about Internet use, in the form of guidelines that should help people who feel that they can’t control how much time they spend online, or how they spend their time online. This document should define what healthy and normal internet use looks like, and what forms of control work the best when it comes to avoiding excessive Internet use in a way that’s sustainable, makes sense, and doesn’t feel artificial or like some kind of self deprivation.
 
+This should also serve as a general social or cultural norm, or at least a norm for the no-surf community, so that we can orient ourselves in a broader society and try to adapt to broader cultural norms and understandings of what is normal and healthy, instead of functioning as isolated individuals who don't even any reference points, or landmarks, or coordinate system, or norms to help us orient ourselves in this completely new landscape created by technology.
+
+Feel free to suggest changes.
 
 ## 1. Defining normal and healthy Internet use
 
