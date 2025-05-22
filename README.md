@@ -18,11 +18,11 @@ Feel free to suggest changes.
 
 1.5.	This leads to following limits:
 
-    i.	For people working full time, say they have 7 hours of free time. They should limit their total recreational Internet use to around 4 hours a day, and they should limit their surfing to 1,5 hours a day.
+i.	For people working full time, say they have 7 hours of free time. They should limit their total recreational Internet use to around 4 hours a day, and they should limit their surfing to 1,5 hours a day.
     
-    ii.	For part time jobs, say you have 11 hours of free time, then you should limit your total Internet use to 6 hours a day, and limit surfing to 2 hours a day.
+ii.	For part time jobs, say you have 11 hours of free time, then you should limit your total Internet use to 6 hours a day, and limit surfing to 2 hours a day.
     
-    iii.	For unemployed people, during weekends, etc… If we assume all waking time is free, in that case, the limits should be: 9 hours a day total recreational Internet use, 3 hours a day surfing.
+iii.	For unemployed people, during weekends, etc… If we assume all waking time is free, in that case, the limits should be: 9 hours a day total recreational Internet use, 3 hours a day surfing.
 
 1.6.	As said before, the main goal is to reduce surfing. If someone can pull out 9 hours of focused, meaningful recreational Internet activity a day, kudos to them. But I guess most can’t. We aren’t designed for consuming that much content, and doing so much focused activity.
 
@@ -75,11 +75,11 @@ important as limiting time spent online.
 
 At first glance, I’d classify methods like this:
  
-   	Best:
+Best:
    
-   	Solid: 
+Solid: 
    
-   	Garbage: 
+Garbage: 
 
 ## 5.	Discussing methods for stopping Internet from being the default activity:
 
