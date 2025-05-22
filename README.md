@@ -1,4 +1,4 @@
-# Defining-norms-for-Internet-use
+# Defining norms for Internet use
 
 This document is an attempt to create sensible, useful, sustainable and beneficial social / cultural norms about Internet use, in the form of guidelines that should help people who feel that they can’t control how much time they spend online, or how they spend their time online. This document should define what healthy and normal internet use looks like, and what forms of control work the best when it comes to avoiding excessive Internet use in a way that’s sustainable, makes sense, and doesn’t feel artificial or like some kind of self deprivation.
 
