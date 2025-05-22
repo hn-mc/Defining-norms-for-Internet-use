@@ -111,4 +111,4 @@ Garbage:
 
   7.5. Maybe leisure should be LEISURE. And it means just RELAXING, it doesn't need to be meaningful, you don't have to read articles to the end, you don't need to watch videos to the end... No one expects anything from you... you're not working. You're having fun. Surfing is just fun, recreation... it doesn't have to be meaningful or culturally enriching, or anything...
 
-  7.6. But then, if d and e are true, why do we feel so guilty for spending so much time surfing? Why it feels so bad on a deep level, while at the same time if we were hanging out with friends talking about utter nonsense and simply wasting time, that wouldn't feel that wrong.
+  7.6. But then, why do we feel so guilty for spending so much time surfing? Why it feels so bad on a deep level, while at the same time if we were hanging out with friends talking about utter nonsense and simply wasting time, that wouldn't feel that wrong.
